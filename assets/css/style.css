@@ -1,0 +1,10 @@
+body{
+	padding-top: 100px;
+}
+.form{
+	width: 50%;
+	margin: 0px auto;
+}
+.navbar-dark .navbar-brand{
+	color: #1dbfea;
+}
